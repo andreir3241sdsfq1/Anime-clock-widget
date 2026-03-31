@@ -1,0 +1,7 @@
+1 download MSVC CL compilator
+
+2 Enter the command opened from the folder into the console:
+
+cl main.cpp resource.res /EHsc /DUNICODE /D_UNICODE user32.lib gdi32.lib gdiplus.lib shell32.lib
+
+3 profit
