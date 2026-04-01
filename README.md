@@ -5,7 +5,7 @@
   <img src="Images/7.png" width="60"/>
 </p>
 
-# Clock Widget (C++ / WinAPI)
+# Clock Widget (C++ / WinAPI)!
 
 A lightweight desktop clock widget built with pure WinAPI and GDI+.
 Instead of standard text, the clock displays time using custom PNG images of anime characters holding digit signs.
